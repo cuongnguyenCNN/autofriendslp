@@ -16,7 +16,7 @@ export default function Home() {
           </p>
           <div className="mt-6 flex justify-center gap-4">
             <Link
-              href="#"
+              href="https://chromewebstore.google.com/detail/auto-add-friends-on-faceb/alfanhonjngfkflgmjnimieglhhngbjm?authuser=0&hl=vi"
               className="bg-blue-600 text-white hover:bg-blue-700 text-lg px-6 py-3 rounded-full"
             >
               Cài đặt miễn phí
